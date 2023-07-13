@@ -26,7 +26,7 @@ Highly skilled and results-driven Software Developer with expertise in PHP, Lara
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TripleKay&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TripleKay&limit=5&theme=dark&&hide_border=true&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=TripleKay&limit=5&theme=radical&&hide_border=true&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TripleKay&icon=2&color=12)](https://visitcount.itsvg.in)
