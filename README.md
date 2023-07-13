@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**TripleKay/TripleKay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- # 💫 About Me:
+# 💫 About Me:
 Highly skilled and results-driven Software Developer with expertise in PHP, Laravel, MySQL with hands-on experience in various stages of software development. <br>Experienced in both front-end and back-end development, with a passion for delivering high-quality code and exceptional user experiences. <br>Strong problem-solving and leadership skills and staying updated with the latest technologies.
 
 
