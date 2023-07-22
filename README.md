@@ -20,16 +20,13 @@ Highly skilled and results-driven Software Developer with expertise in PHP, Lara
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TripleKay&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">.
+</div>
 <a href="https://github.com/triplekay">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=triplekay&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=triplekay&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=triplekay&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=triplekay&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=triplekay&theme=2077" height="180em" />
 </div>
----
+  
 [![](https://visitcount.itsvg.in/api?id=TripleKay&icon=2&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
