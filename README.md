@@ -17,10 +17,6 @@ Highly skilled and results-driven Software Developer with expertise in PHP, Lara
 # 📊 GitHub Stats:
 
 
-
-<!-- Create a table with one row and three columns -->
-[![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=triplekay&theme=2077)](https://github.com/triplekay) |
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TripleKay&theme=radical&hide_border=true)
 [![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=triplekay&theme=2077)](https://github.com/triplekay)
   
