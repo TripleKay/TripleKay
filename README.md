@@ -17,13 +17,13 @@ Highly skilled and results-driven Software Developer with expertise in PHP, Lara
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TripleKay&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TripleKay&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=triplekay&theme=2077)](https://github.com/triplekay)
 
 
 <!-- Create a table with one row and three columns -->
 |                         |                         |                         |
 |-------------------------|-------------------------|-------------------------|
-| [![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=triplekay&theme=2077)](https://github.com/triplekay) | [![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=triplekay&theme=2077)](https://github.com/triplekay) | [![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=triplekay&theme=2077)](https://github.com/triplekay) |
+|  | [![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=triplekay&theme=2077)](https://github.com/triplekay) | [![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=triplekay&theme=2077)](https://github.com/triplekay) |
 
 
   
