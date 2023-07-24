@@ -21,9 +21,7 @@ Highly skilled and results-driven Software Developer with expertise in PHP, Lara
 
 
 <!-- Create a table with one row and three columns -->
-|                         |                         |                         |
-|-------------------------|-------------------------|-------------------------|
-|  | [![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=triplekay&theme=2077)](https://github.com/triplekay) | [![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=triplekay&theme=2077)](https://github.com/triplekay) |
+[![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=triplekay&theme=2077)](https://github.com/triplekay) |
 
 
   
