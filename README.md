@@ -1,8 +1,9 @@
 ### Hi there 👋
+[![MasterHead](https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_92x30dp.png)](https://github.com/TripleKay)
 
 - 🔭 I’m currently working on Microland
 - 🌱 I’m currently learning Java
-[![MasterHead](https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_92x30dp.png)](https://github.com/TripleKay)
+
 ### 💫 About Me:
 Highly skilled and results-driven Software Developer with expertise in PHP, Laravel, MySQL with hands-on experience in various stages of software development. <br>Experienced in both front-end and back-end development, with a passion for delivering high-quality code and exceptional user experiences. <br>Strong problem-solving and leadership skills and staying updated with the latest technologies.
 
