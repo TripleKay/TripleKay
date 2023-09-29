@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_92x30dp.png)](https://github.com/TripleKay)
+[![MasterHead]([https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_92x30dp.png](https://raw.githubusercontent.com/TripleKay/TripleKay/main/5070f9e7af565d1d16a3edfd7f53cd1e.png))](https://github.com/TripleKay)
 
 - 🔭 I’m currently working on Microland
 - 🌱 I’m currently learning Java
