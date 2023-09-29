@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://raw.githubusercontent.com/TripleKay/TripleKay/main/banner%20(3).png)](https://github.com/TripleKay)
+
 
 - 🔭 I’m currently working on Microland
 - 🌱 I’m currently learning Java
