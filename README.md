@@ -23,6 +23,8 @@ Highly skilled and results-driven Software Developer with expertise in PHP, Lara
   
 [![](https://visitcount.itsvg.in/api?id=TripleKay&icon=2&color=12)](https://visitcount.itsvg.in)
 
+<!-- 
 <a href="https://github.com/triplekay" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triplekay&langs_count=20&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
