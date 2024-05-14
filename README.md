@@ -28,3 +28,18 @@ Highly skilled and results-driven Software Developer with expertise in PHP, Lara
 -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TripleKay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TripleKay&radius=16&theme=react&area=true&order=5&hide_border=false" height="200" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/TripleKay/count.svg?"  />
+</div>
+
+###
