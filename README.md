@@ -17,11 +17,12 @@ Highly skilled and results-driven Software Developer with expertise in PHP, Lara
 
 ### 📊 GitHub Stats:
 
-
+<!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TripleKay&theme=radical&hide_border=true)
 [![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=triplekay&theme=2077)](https://github.com/triplekay)
   
 [![](https://visitcount.itsvg.in/api?id=TripleKay&icon=2&color=12)](https://visitcount.itsvg.in)
+-->
 
 <!-- 
 <a href="https://github.com/triplekay" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triplekay&langs_count=20&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
@@ -31,14 +32,14 @@ Highly skilled and results-driven Software Developer with expertise in PHP, Lara
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=TripleKay&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TripleKay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=radical&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/TripleKay/count.svg?"  />
 </div>
 
