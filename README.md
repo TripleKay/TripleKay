@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Visibleone
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Golang
 
 ### 💫 About Me:
 Highly skilled Web Developer specializing in Laravel (PHP) with strong expertise in Node.js and Nest.js. Experienced in both front-end and back-end development, delivering clean, maintainable code and exceptional user experiences. Strong problem-solving and leadership abilities, with a commitment to adopting the latest technologies and building scalable, high-performance applications.
