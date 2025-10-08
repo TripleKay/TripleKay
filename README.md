@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Java
 
 ### 💫 About Me:
-Highly skilled and results-driven Software Developer with expertise in PHP, Laravel, MySQL with hands-on experience in various stages of software development. <br>Experienced in both front-end and back-end development, with a passion for delivering high-quality code and exceptional user experiences. <br>Strong problem-solving and leadership skills and staying updated with the latest technologies.
+Highly skilled Web Developer specializing in Laravel (PHP) with strong expertise in Node.js and Nest.js. Experienced in both front-end and back-end development, delivering clean, maintainable code and exceptional user experiences. Strong problem-solving and leadership abilities, with a commitment to adopting the latest technologies and building scalable, high-performance applications.
 
 ### 🌐 Socials:
 <div align="left">
@@ -52,8 +52,8 @@ Highly skilled and results-driven Software Developer with expertise in PHP, Lara
 
 ###
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://profile-counter.glitch.me/TripleKay/count.svg?"  />
-</div>
+</div> -->
 
 ###
